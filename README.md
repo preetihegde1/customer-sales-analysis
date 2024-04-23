@@ -1,11 +1,20 @@
 # customer-sales-analysis
-Finding possible insights from customer from two years sales data
+To find all possible insights from a customers’ two years transaction detail.
 
-# Jupyter Samples
+## objective
+  1.  Explore the dataset
+  2.  Visualize sales Trends Over Time
+  3.  Find top Selling Products
+  4.  Customer Segmentation (RFM Analysis)
+  5.  Geographic Analysis
+  6.  Product Affinity analysis (Market Basket)
+  7.  Error / Outlier Analysis
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ibm-et/jupyter-samples)
+Finally to provide recommendation based on observations and analysis
 
-This repository contains sample [IPython](http://ipython.org) / [Jupyter](http://jupyter.org/) notebooks ranging from tutorials on using popular open source repositories to sample analyses on public data sets to neat notebook hacks.
+## tools used
+  * Python - for Data Prep
+  * Tableau - for comprehensive visualization
 
 ## View the Notebooks
 
