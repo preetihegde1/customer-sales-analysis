@@ -2,7 +2,7 @@
 To find all possible insights from a customers’ two years transaction detail and provide my observations and recommendations
 
 ## objective
-  1.  Explore the dataset
+  1.  Explore the dataset.
   2.  Visualize sales Trends Over Time
   3.  Find products , customers trend over time
   4.  Customer Segmentation (RFM Analysis)
@@ -36,14 +36,14 @@ Finally to provide recommendation based on observations and analysis
   *    Price=0 is ignored in this analysis , as they dont contribute to any revenue.
 
 
-![](screenshots/datamodel.png)  
+![](images/datamodel.png)  
 
 
 ## error details
 
-![](screenshots\error_summary.png)  
+![](images/error_summary.png)  
 
-![](screenshots\Invalid_Stock_Code.png)  
+![](images/Invalid_Stock_Code.png)  
 
 ## view notebook
 
@@ -61,17 +61,17 @@ Below are the recommendations based on my analysis of data
 
 ### 1- Focus on acquiring new customers and improving retention rate for 2010 and 2011 cohorts.
 
-![](screenshots\Cohorts.png)
+![](images/Cohorts.png)
 
 > **85%** of sales is from **UK** , other geographies can be focused to bring new customers 
 
-![](screenshots\retention.png)
+![](images/retention.png)
 
 > Since the retention rates for the 2010 and 2011 cohorts are lower compared to the 2009 cohort, prioritize efforts to improve retention among these cohorts.
 
 ### 2.Engage At Risk Customers and reactivation of Lost Customers
 
-![](screenshots\AtRisk.png)
+![](images/AtRisk.png)
 
 > Implement targeted re-engagement campaigns to win back lost and at-risk customers business. 
 
@@ -79,7 +79,7 @@ Below are the recommendations based on my analysis of data
 
 ### 3.Personalized Customer Experience , Rewards program for Best & Loyal customers who bring in 80% of the sales revenue
 
-![](screenshots\Vip.png)
+![](images\Vip.png)
 
 > Concentrate on retaining the Best Customers, Big Spenders and Loyal Customers whose days since the last purchase is less than a month by implementing personalized loyalty programs tailored to the specific preferences and buying behaviors. Providing VIP perks to incentivize repeat purchases and foster a sense of appreciation.
 
@@ -91,7 +91,7 @@ Below are the recommendations based on my analysis of data
 
 Substantial portion of **80%** of company's revenue in sales, is generated from products priced below **5£** . This indicates that the lower-priced products are driving a significant portion of the company's overall sales volume.
 
-  ![](screenshots\price_analysis.png)
+  ![](images\price_analysis.png)
 
 > While low-priced products contribute significantly to sales volume, there is also a market for products priced between $5 and $10. The company can implement upselling strategies to encourage customers purchasing lower-priced items to also consider mid-priced products. This can be achieved through bundle offers, cross-selling recommendations, or promotional campaigns highlighting the value of mid-priced products.
 
