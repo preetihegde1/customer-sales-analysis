@@ -93,6 +93,6 @@ Substantial portion of **80%** of company's revenue in sales, is generated from 
 
   ![](images/price_analysis.png)
 
-> While low-priced products contribute significantly to sales volume, there is also a market for products priced between $5 and $10. The company can implement upselling strategies to encourage customers purchasing lower-priced items to also consider mid-priced products. This can be achieved through bundle offers, cross-selling recommendations, or promotional campaigns highlighting the value of mid-priced products.
+> While low-priced products contribute significantly to sales volume, there is also a market for products priced between £5 and £10. The company can implement upselling strategies to encourage customers purchasing lower-priced items to also consider mid-priced products. This can be achieved through bundle offers, cross-selling recommendations, or promotional campaigns highlighting the value of mid-priced products.
 
 
