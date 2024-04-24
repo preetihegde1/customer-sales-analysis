@@ -79,7 +79,7 @@ Below are the recommendations based on my analysis of data
 
 ### 3.Personalized Customer Experience , Rewards program for Best & Loyal customers who bring in 80% of the sales revenue
 
-![](images\Vip.png)
+![](images/Vip.png)
 
 > Concentrate on retaining the Best Customers, Big Spenders and Loyal Customers whose days since the last purchase is less than a month by implementing personalized loyalty programs tailored to the specific preferences and buying behaviors. Providing VIP perks to incentivize repeat purchases and foster a sense of appreciation.
 
@@ -91,7 +91,7 @@ Below are the recommendations based on my analysis of data
 
 Substantial portion of **80%** of company's revenue in sales, is generated from products priced below **5£** . This indicates that the lower-priced products are driving a significant portion of the company's overall sales volume.
 
-  ![](images\price_analysis.png)
+  ![](images/price_analysis.png)
 
 > While low-priced products contribute significantly to sales volume, there is also a market for products priced between $5 and $10. The company can implement upselling strategies to encourage customers purchasing lower-priced items to also consider mid-priced products. This can be achieved through bundle offers, cross-selling recommendations, or promotional campaigns highlighting the value of mid-priced products.
 
