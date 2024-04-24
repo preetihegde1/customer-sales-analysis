@@ -36,7 +36,7 @@ Finally to provide recommendation based on observations and analysis
   *    Price=0 is ignored in this analysis , as they dont contribute to any revenue.
 
 
-![](screenshots\datamodel.png)  
+![](screenshots/datamodel.png)  
 
 
 ## error details
